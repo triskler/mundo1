@@ -1,7 +1,0 @@
-data = int(input("Digite a medida em metros: "))
-print(f'{data} metros, corresponde a {data / 1000} kilometros')
-print(f'corresponde a {data / 100} Hectometros')
-print(f'corresponde a {data / 10} Decametros')
-print(f'corresponde a {data * 10} Decimetros')
-print(f'corresponde a {data * 100} Centímetros')
-print(f'corresponde a {data * 1000} Milímetros')

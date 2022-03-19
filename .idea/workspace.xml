@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec8f68e4-cfc6-4d27-9d03-0719db8b0d2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Iteracoes/NumerosPrimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iteracoes/ProgressaoAritmética.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iteracoes/SomaDosNumerosPares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iteracoes/Tabuada_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnoBissexto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AumentoSalario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoDeDesconto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorBaseNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorDeMoeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorTemperatura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmprestimoAnalise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iteracoes/Tabuada_2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JogoAdivinhacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocacaoCarro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocalizadorDeLetras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaiorEMenorNumero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaAprovacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassagemPreco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PedraPapelTesoura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadarVelocidade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VerificadorTriangulo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analiseVariavel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversorDeMedida.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediaAritmetica.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operdoresComVariavel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orcamentoDePintura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reajusteSalarial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabuada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trucarEmInteiros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificadorNumero.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26W6jYfy6X1DKT560MaCSALNSGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno\PycharmProjects\cursoPython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.NumerosPrimos">
+    <configuration name="NumerosPrimos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aluno\PycharmProjects\cursoPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iteracoes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iteracoes/NumerosPrimos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProgressaoAritmética" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aluno\PycharmProjects\cursoPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iteracoes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iteracoes/ProgressaoAritmética.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SomaDosMultimplosDeTres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aluno\PycharmProjects\cursoPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iteracoes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iteracoes/SomaDosMultimplosDeTres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SomaDosNumerosPares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aluno\PycharmProjects\cursoPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iteracoes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iteracoes/SomaDosNumerosPares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabuada_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\aluno\PycharmProjects\cursoPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iteracoes" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="C:\Users\aluno\PycharmProjects\cursoPython\Iteracoes\Tabuada_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NumerosPrimos" />
+        <item itemvalue="Python.ProgressaoAritmética" />
+        <item itemvalue="Python.SomaDosNumerosPares" />
+        <item itemvalue="Python.Tabuada_2.0" />
+        <item itemvalue="Python.SomaDosMultimplosDeTres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8f68e4-cfc6-4d27-9d03-0719db8b0d2a" name="Changes" comment="" />
+      <created>1647527131726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647527131726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
