@@ -1,0 +1,7 @@
+var = input("Digite algo: ")
+print(f'É alfabético? {var.isalpha()}')
+print(f'É numerico? {var.isnumeric()}')
+print(f'É alfanumerico? {var.isalnum()}')
+print(f'Esta em maiuscula? {var.isupper()}')
+print(f'Esta em minuscula? {var.islower()}')
+print(f'Está capitalizada? {var.istitle()}')
